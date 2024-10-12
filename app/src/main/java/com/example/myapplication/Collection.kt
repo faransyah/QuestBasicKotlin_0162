@@ -21,5 +21,8 @@ fun Contohlist(){
     shape[0] = "Oval"
     println(shape)
 
+    // List Read-Only
+    val shapeLocked: List<String> = shape
+    println(shapeLocked)
 
 }
