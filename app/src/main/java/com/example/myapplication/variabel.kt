@@ -30,6 +30,5 @@ fun main() {
     println(stringValue)
 
     stringValue = "Hello, kotlin"
-    println("String: $stringValue")
-
+    println("String: $stringValue");
 }
