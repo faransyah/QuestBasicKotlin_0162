@@ -26,3 +26,7 @@ fun Contohlist(){
     println(shapeLocked)
 
 }
+
+fun ContohSet() {
+
+}
